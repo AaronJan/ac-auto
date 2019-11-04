@@ -1,6 +1,6 @@
 {
   "name": "ac-auto",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "description": "Aho-Corasick automaton implementation for fast string matching.",
   "main": "dist/index.js",
   "typings": "./dist/index.d.ts",
